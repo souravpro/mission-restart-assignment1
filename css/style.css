@@ -16,3 +16,8 @@
 /* .hero-content {
     background-color: aqua;
 } */
+
+
+#subscribe-email-input::placeholder {
+    color: #857979;
+}
